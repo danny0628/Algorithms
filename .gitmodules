@@ -1,3 +1,3 @@
 [submodule "GANDLF_module"]
 	path = GANDLF_module
-	url = https://github.com/CBICA/GANDLF.git
+	url = https://github.com/mlcommons/GANDLF.git
